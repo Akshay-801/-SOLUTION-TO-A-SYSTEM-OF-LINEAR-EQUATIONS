@@ -28,7 +28,7 @@ print(result)
 ```
 
 ## Output:
-![alt text](math.png)
+![alt text](math1.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
